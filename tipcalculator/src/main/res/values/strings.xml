@@ -2,6 +2,8 @@
     <string name="app_name">Чайевые</string>
 
     <string name="calculate_tip">Посчитать чаевые</string>
-    <string name="cost_of_service">Сумма чека</string>
+    <string name="bill_amount">Сумма чека</string>
+    <string name="how_was_the_service">Чаевые (%)</string>
     <string name="tip_amount">Сумма чаевых: %s</string>
+    <string name="round_up_tip">Округлить?</string>
 </resources>
