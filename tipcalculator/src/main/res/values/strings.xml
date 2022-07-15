@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Чайевые</string>
+
+    <string name="calculate_tip">Посчитать чаевые</string>
+    <string name="cost_of_service">Сумма чека</string>
+    <string name="tip_amount">Сумма чаевых: %s</string>
+</resources>
